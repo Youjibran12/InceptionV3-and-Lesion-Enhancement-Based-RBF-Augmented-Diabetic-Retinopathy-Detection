@@ -34,6 +34,7 @@ for pre-processing MS-DRLBP technique is applied so that
 the lesions become clearly visible.
 
 **Workflow Model:**
+
 <img width="221" height="220" alt="image" src="https://github.com/user-attachments/assets/59ac7d00-d07f-4ecc-9485-1e015870b9c5" />
 
 
@@ -68,6 +69,7 @@ life cycle.
 
 **Dataset used for the project is APTOS dataset.**
 **Before and After Preprocessing images comparison:**
+
 <img width="188" height="355" alt="image" src="https://github.com/user-attachments/assets/f19a9db5-cf48-4218-9634-0adcd1b04e85" />
 
 
